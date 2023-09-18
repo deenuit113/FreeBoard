@@ -1,4 +1,4 @@
-export default function Qqq(){
+export default function qqqq(){
 
     interface IProfile {
         name : string
